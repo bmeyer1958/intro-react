@@ -66,7 +66,7 @@ class App extends React.Component {
       );
     }
 
-    /* Change below to render students*/
+    /* Change below to render students list*/
 
     if (this.state.buttonClicked === "students") {
       tabChoice = (
